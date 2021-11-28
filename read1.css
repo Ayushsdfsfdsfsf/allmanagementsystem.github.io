@@ -1,0 +1,15 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+.h1
+{
+	margin-left: 750px;
+	text-decoration: bold;
+}
+.details
+{
+	margin-left: 750px;
+	font-size: 20px;	
+}

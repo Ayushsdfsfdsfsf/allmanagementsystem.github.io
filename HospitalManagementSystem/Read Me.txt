@@ -1,0 +1,13 @@
+How to run the Hospital Management System (HMS) Project
+1. Intall Xampp server 
+
+2. Download the  exe file
+
+3. Install normaly
+
+4. After installation here is Login Details 
+----------------------------------------------------------------------------------------------------------------------------
+Login Details
+Login Details for admin : username(admin)/ password(Test@12345)
+Login Details for Patient: username(test@gmail.com)/ password(Test@123)
+Login Details for Doctor: username(test@demo.com)/password(Test@123)
